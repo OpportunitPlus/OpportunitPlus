@@ -1,5 +1,5 @@
 - 👋 Salut, C'est @OpportunitPlus
-- 👀 Ce compte Github a pour but d'herbeger les diférents projet 
+- 👀 Ce compte Github a pour but d'heberger les diférents projet 
 - 🌱 Il permet notamment le partage, la réalisation et la collaboration avant tout
 - 💞️ Cet espace est le votre et j'espère que vous allez en prendre soin. 
 - 📫 En cas de questions, ou de zone d'ombre hésitez pas a nous contacter. 
